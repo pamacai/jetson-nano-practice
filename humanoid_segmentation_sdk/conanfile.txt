@@ -1,0 +1,8 @@
+[requires]
+mpg123/1.31.2
+libsndfile/1.2.2
+opencv/4.5.5
+
+[generators]
+CMakeToolchain
+CMakeDeps
