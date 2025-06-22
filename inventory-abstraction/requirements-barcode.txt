@@ -1,0 +1,4 @@
+ultralytics
+pyzbar
+opencv-python
+pandas
